@@ -33,28 +33,28 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
   <circle cx="6" cy="6" r="3.5" fill="#38bdae" class="pulse" filter="url(#glow)"/>
   <text x="16" y="10" font-size="10" letter-spacing="1.6" fill="#38bdae" class="pulse">LIVE</text>
 </g>
-  <text x="22" y="70" font-size="11" fill="#c0caf5">C#</text>
+  <text x="22" y="70" font-size="11" fill="#c0caf5">Python</text>
   <rect x="128" y="62" width="280" height="8" rx="4" fill="#24263a"/>
   <rect class="hbar" x="128" y="62" width="280" height="8" rx="4" fill="#70a5fd" filter="url(#glowS)" style="animation-delay:0.00s"/>
-  <text x="473" y="70" text-anchor="end" font-size="11" fill="#70a5fd">32.7%</text>
-  <text x="22" y="91" font-size="11" fill="#c0caf5">TypeScript</text>
+  <text x="473" y="70" text-anchor="end" font-size="11" fill="#70a5fd">71.1%</text>
+  <text x="22" y="91" font-size="11" fill="#c0caf5">JavaScript</text>
   <rect x="128" y="83" width="280" height="8" rx="4" fill="#24263a"/>
-  <rect class="hbar" x="128" y="83" width="221" height="8" rx="4" fill="#bf91f3" filter="url(#glowS)" style="animation-delay:0.12s"/>
-  <text x="473" y="91" text-anchor="end" font-size="11" fill="#bf91f3">25.8%</text>
-  <text x="22" y="112" font-size="11" fill="#c0caf5">Java</text>
+  <rect class="hbar" x="128" y="83" width="40" height="8" rx="4" fill="#bf91f3" filter="url(#glowS)" style="animation-delay:0.12s"/>
+  <text x="473" y="91" text-anchor="end" font-size="11" fill="#bf91f3">10.2%</text>
+  <text x="22" y="112" font-size="11" fill="#c0caf5">C#</text>
   <rect x="128" y="104" width="280" height="8" rx="4" fill="#24263a"/>
-  <rect class="hbar" x="128" y="104" width="140" height="8" rx="4" fill="#38bdae" filter="url(#glowS)" style="animation-delay:0.24s"/>
-  <text x="473" y="112" text-anchor="end" font-size="11" fill="#38bdae">16.4%</text>
-  <text x="22" y="133" font-size="11" fill="#c0caf5">Kotlin</text>
+  <rect class="hbar" x="128" y="104" width="20" height="8" rx="4" fill="#38bdae" filter="url(#glowS)" style="animation-delay:0.24s"/>
+  <text x="473" y="112" text-anchor="end" font-size="11" fill="#38bdae">5.0%</text>
+  <text x="22" y="133" font-size="11" fill="#c0caf5">HTML</text>
   <rect x="128" y="125" width="280" height="8" rx="4" fill="#24263a"/>
-  <rect class="hbar" x="128" y="125" width="102" height="8" rx="4" fill="#fb7185" filter="url(#glowS)" style="animation-delay:0.36s"/>
-  <text x="473" y="133" text-anchor="end" font-size="11" fill="#fb7185">11.9%</text>
-  <text x="22" y="154" font-size="11" fill="#c0caf5">Dart</text>
+  <rect class="hbar" x="128" y="125" width="16" height="8" rx="4" fill="#fb7185" filter="url(#glowS)" style="animation-delay:0.36s"/>
+  <text x="473" y="133" text-anchor="end" font-size="11" fill="#fb7185">4.1%</text>
+  <text x="22" y="154" font-size="11" fill="#c0caf5">TypeScript</text>
   <rect x="128" y="146" width="280" height="8" rx="4" fill="#24263a"/>
-  <rect class="hbar" x="128" y="146" width="65" height="8" rx="4" fill="#fbbf24" filter="url(#glowS)" style="animation-delay:0.48s"/>
-  <text x="473" y="154" text-anchor="end" font-size="11" fill="#fbbf24">7.5%</text>
-  <text x="22" y="175" font-size="11" fill="#c0caf5">Python</text>
+  <rect class="hbar" x="128" y="146" width="12" height="8" rx="4" fill="#fbbf24" filter="url(#glowS)" style="animation-delay:0.48s"/>
+  <text x="473" y="154" text-anchor="end" font-size="11" fill="#fbbf24">3.0%</text>
+  <text x="22" y="175" font-size="11" fill="#c0caf5">ShaderLab</text>
   <rect x="128" y="167" width="280" height="8" rx="4" fill="#24263a"/>
-  <rect class="hbar" x="128" y="167" width="32" height="8" rx="4" fill="#22d3ee" filter="url(#glowS)" style="animation-delay:0.60s"/>
-  <text x="473" y="175" text-anchor="end" font-size="11" fill="#22d3ee">3.8%</text>
+  <rect class="hbar" x="128" y="167" width="8" height="8" rx="4" fill="#22d3ee" filter="url(#glowS)" style="animation-delay:0.60s"/>
+  <text x="473" y="175" text-anchor="end" font-size="11" fill="#22d3ee">2.0%</text>
 </svg>
