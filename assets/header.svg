@@ -37,7 +37,7 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
   <rect y="287" width="1000" height="3" fill="url(#neon)" filter="url(#glow)"/>
   <path d="M26 26 H70 M26 26 V70" stroke="#22d3ee" stroke-width="2" fill="none" filter="url(#glowS)"/>
   <path d="M974 264 H930 M974 264 V220" stroke="#fb7185" stroke-width="2" fill="none" filter="url(#glowS)"/>
-  <text x="500" y="70" text-anchor="middle" font-size="13" letter-spacing="7" fill="#38bdae" class="pulse">// PORTFOLIO.EXE · ONLINE</text>
+  <text x="500" y="70" text-anchor="middle" font-size="13" letter-spacing="7" fill="#38bdae" class="pulse">// Github Profile</text>
   <g class="flick">
     <text x="500" y="145" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="3" fill="url(#neon)" filter="url(#glowL)">MAHMUDA ISLAM RIFAH</text>
     <text x="500" y="145" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="3" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width=".8">MAHMUDA ISLAM RIFAH</text>
