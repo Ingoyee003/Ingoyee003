@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top languages">
+<title>Top languages</title>
+<defs>
+<filter id="glowS" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowL" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#70a5fd"/><stop offset=".5" stop-color="#bf91f3"/><stop offset="1" stop-color="#38bdae"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70a5fd" stop-opacity=".10"/><stop offset="1" stop-color="#70a5fd" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bf91f3"/><stop offset="1" stop-color="#70a5fd"/></linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+@keyframes flicker{0%,19%,21%,23%,55%,57%,100%{opacity:1}20%,22%{opacity:.45}56%{opacity:.7}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+@keyframes growX{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.hbar{transform-box:fill-box;transform-origin:0 50%;animation:growX 1.1s cubic-bezier(.2,.8,.2,1) both}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.flick{animation:flicker 6s linear infinite}
+.bar{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+.wave{animation:drift 7s linear infinite}
+.wave2{animation:drift 11s linear infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+<rect width="495" height="195" rx="14" fill="#1a1b27"/>
+<rect x="1" y="1" width="493" height="193" rx="13" fill="url(#sheen)"/>
+<rect x="1" y="1" width="493" height="193" rx="13" fill="none" stroke="url(#neon)" stroke-width="1.6" filter="url(#glowS)"/>
+  <text x="22" y="33" font-size="12" font-weight="700" letter-spacing="2.4" fill="#bf91f3" filter="url(#glowS)">TOP LANGUAGES</text>
+  
+<g transform="translate(423 21)">
+  <circle cx="6" cy="6" r="3.5" fill="#38bdae" class="pulse" filter="url(#glow)"/>
+  <text x="16" y="10" font-size="10" letter-spacing="1.6" fill="#38bdae" class="pulse">LIVE</text>
+</g>
+  <text x="22" y="70" font-size="11" fill="#c0caf5">C#</text>
+  <rect x="128" y="62" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="62" width="280" height="8" rx="4" fill="#70a5fd" filter="url(#glowS)" style="animation-delay:0.00s"/>
+  <text x="473" y="70" text-anchor="end" font-size="11" fill="#70a5fd">32.7%</text>
+  <text x="22" y="91" font-size="11" fill="#c0caf5">TypeScript</text>
+  <rect x="128" y="83" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="83" width="221" height="8" rx="4" fill="#bf91f3" filter="url(#glowS)" style="animation-delay:0.12s"/>
+  <text x="473" y="91" text-anchor="end" font-size="11" fill="#bf91f3">25.8%</text>
+  <text x="22" y="112" font-size="11" fill="#c0caf5">Java</text>
+  <rect x="128" y="104" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="104" width="140" height="8" rx="4" fill="#38bdae" filter="url(#glowS)" style="animation-delay:0.24s"/>
+  <text x="473" y="112" text-anchor="end" font-size="11" fill="#38bdae">16.4%</text>
+  <text x="22" y="133" font-size="11" fill="#c0caf5">Kotlin</text>
+  <rect x="128" y="125" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="125" width="102" height="8" rx="4" fill="#fb7185" filter="url(#glowS)" style="animation-delay:0.36s"/>
+  <text x="473" y="133" text-anchor="end" font-size="11" fill="#fb7185">11.9%</text>
+  <text x="22" y="154" font-size="11" fill="#c0caf5">Dart</text>
+  <rect x="128" y="146" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="146" width="65" height="8" rx="4" fill="#fbbf24" filter="url(#glowS)" style="animation-delay:0.48s"/>
+  <text x="473" y="154" text-anchor="end" font-size="11" fill="#fbbf24">7.5%</text>
+  <text x="22" y="175" font-size="11" fill="#c0caf5">Python</text>
+  <rect x="128" y="167" width="280" height="8" rx="4" fill="#24263a"/>
+  <rect class="hbar" x="128" y="167" width="32" height="8" rx="4" fill="#22d3ee" filter="url(#glowS)" style="animation-delay:0.60s"/>
+  <text x="473" y="175" text-anchor="end" font-size="11" fill="#22d3ee">3.8%</text>
+</svg>

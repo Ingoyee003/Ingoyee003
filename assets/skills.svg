@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="264" viewBox="0 0 1000 264" role="img" aria-label="Skills: GAME DEV: Unity (C#), Godot, Custom Java Render Engine, BFS Procedural Gen; WEB &amp; APP: React, Next.js, Kotlin, Flutter, Supabase; QA AUTOMATION: Selenium, Playwright, Appium, Postman / Newman CI/CD; RESEARCH: IEEE QPAIN 2026, Explainable ML Ensemble, Scopus-Indexed, 2nd Nationally (EDGE / 500+), Top 5 IUPC">
+<title>Skills: GAME DEV: Unity (C#), Godot, Custom Java Render Engine, BFS Procedural Gen; WEB &amp; APP: React, Next.js, Kotlin, Flutter, Supabase; QA AUTOMATION: Selenium, Playwright, Appium, Postman / Newman CI/CD; RESEARCH: IEEE QPAIN 2026, Explainable ML Ensemble, Scopus-Indexed, 2nd Nationally (EDGE / 500+), Top 5 IUPC</title>
+<defs>
+<filter id="glowS" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glowL" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#70a5fd"/><stop offset=".5" stop-color="#bf91f3"/><stop offset="1" stop-color="#38bdae"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70a5fd" stop-opacity=".10"/><stop offset="1" stop-color="#70a5fd" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bf91f3"/><stop offset="1" stop-color="#70a5fd"/></linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+@keyframes flicker{0%,19%,21%,23%,55%,57%,100%{opacity:1}20%,22%{opacity:.45}56%{opacity:.7}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+@keyframes growX{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.hbar{transform-box:fill-box;transform-origin:0 50%;animation:growX 1.1s cubic-bezier(.2,.8,.2,1) both}
+.pulse{animation:pulse 2.8s ease-in-out infinite}
+.flick{animation:flicker 6s linear infinite}
+.bar{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+.wave{animation:drift 7s linear infinite}
+.wave2{animation:drift 11s linear infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1000" height="264" rx="14" fill="#1a1b27"/>
+  <rect x="1" y="1" width="998" height="262" rx="13" fill="url(#sheen)"/>
+  <rect x="1" y="1" width="998" height="262" rx="13" fill="none" stroke="url(#neon)" stroke-width="1.6" filter="url(#glowS)"/>
+  <text x="20" y="39" font-size="12" font-weight="700" letter-spacing="2.4" fill="#fb7185" filter="url(#glowS)">GAME DEV</text>
+  <rect x="164" y="23" width="2" height="24" fill="#fb7185" filter="url(#glow)"/>
+  <g transform="translate(190 20)">
+    <rect width="98" height="30" rx="15" fill="#fb7185" fill-opacity=".09" stroke="#fb7185" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="49" y="19.5" text-anchor="middle" font-size="12" fill="#fb7185">Unity (C#)</text></g><g transform="translate(298 20)">
+    <rect width="62" height="30" rx="15" fill="#fb7185" fill-opacity=".09" stroke="#fb7185" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="31" y="19.5" text-anchor="middle" font-size="12" fill="#fb7185">Godot</text></g><g transform="translate(370 20)">
+    <rect width="207" height="30" rx="15" fill="#fb7185" fill-opacity=".09" stroke="#fb7185" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="103.5" y="19.5" text-anchor="middle" font-size="12" fill="#fb7185">Custom Java Render Engine</text></g><g transform="translate(587 20)">
+    <rect width="156" height="30" rx="15" fill="#fb7185" fill-opacity=".09" stroke="#fb7185" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="78" y="19.5" text-anchor="middle" font-size="12" fill="#fb7185">BFS Procedural Gen</text></g>
+  <text x="20" y="91" font-size="12" font-weight="700" letter-spacing="2.4" fill="#70a5fd" filter="url(#glowS)">WEB &amp; APP</text>
+  <rect x="164" y="75" width="2" height="24" fill="#70a5fd" filter="url(#glow)"/>
+  <g transform="translate(190 72)">
+    <rect width="62" height="30" rx="15" fill="#70a5fd" fill-opacity=".09" stroke="#70a5fd" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="31" y="19.5" text-anchor="middle" font-size="12" fill="#70a5fd">React</text></g><g transform="translate(262 72)">
+    <rect width="77" height="30" rx="15" fill="#70a5fd" fill-opacity=".09" stroke="#70a5fd" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="38.5" y="19.5" text-anchor="middle" font-size="12" fill="#70a5fd">Next.js</text></g><g transform="translate(349 72)">
+    <rect width="69" height="30" rx="15" fill="#70a5fd" fill-opacity=".09" stroke="#70a5fd" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="34.5" y="19.5" text-anchor="middle" font-size="12" fill="#70a5fd">Kotlin</text></g><g transform="translate(428 72)">
+    <rect width="77" height="30" rx="15" fill="#70a5fd" fill-opacity=".09" stroke="#70a5fd" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="38.5" y="19.5" text-anchor="middle" font-size="12" fill="#70a5fd">Flutter</text></g><g transform="translate(515 72)">
+    <rect width="84" height="30" rx="15" fill="#70a5fd" fill-opacity=".09" stroke="#70a5fd" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="42" y="19.5" text-anchor="middle" font-size="12" fill="#70a5fd">Supabase</text></g>
+  <text x="20" y="143" font-size="12" font-weight="700" letter-spacing="2.4" fill="#22d3ee" filter="url(#glowS)">QA AUTOMATION</text>
+  <rect x="164" y="127" width="2" height="24" fill="#22d3ee" filter="url(#glow)"/>
+  <g transform="translate(190 124)">
+    <rect width="84" height="30" rx="15" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="42" y="19.5" text-anchor="middle" font-size="12" fill="#22d3ee">Selenium</text></g><g transform="translate(284 124)">
+    <rect width="98" height="30" rx="15" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="49" y="19.5" text-anchor="middle" font-size="12" fill="#22d3ee">Playwright</text></g><g transform="translate(392 124)">
+    <rect width="69" height="30" rx="15" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="34.5" y="19.5" text-anchor="middle" font-size="12" fill="#22d3ee">Appium</text></g><g transform="translate(471 124)">
+    <rect width="185" height="30" rx="15" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="92.5" y="19.5" text-anchor="middle" font-size="12" fill="#22d3ee">Postman / Newman CI/CD</text></g>
+  <text x="20" y="214" font-size="12" font-weight="700" letter-spacing="2.4" fill="#bf91f3" filter="url(#glowS)">RESEARCH</text>
+  <rect x="164" y="179" width="2" height="62" fill="#bf91f3" filter="url(#glow)"/>
+  <g transform="translate(190 176)">
+    <rect width="134" height="30" rx="15" fill="#bf91f3" fill-opacity=".09" stroke="#bf91f3" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="67" y="19.5" text-anchor="middle" font-size="12" fill="#bf91f3">IEEE QPAIN 2026</text></g><g transform="translate(334 176)">
+    <rect width="192" height="30" rx="15" fill="#bf91f3" fill-opacity=".09" stroke="#bf91f3" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="96" y="19.5" text-anchor="middle" font-size="12" fill="#bf91f3">Explainable ML Ensemble</text></g><g transform="translate(536 176)">
+    <rect width="127" height="30" rx="15" fill="#bf91f3" fill-opacity=".09" stroke="#bf91f3" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="63.5" y="19.5" text-anchor="middle" font-size="12" fill="#bf91f3">Scopus-Indexed</text></g><g transform="translate(673 176)">
+    <rect width="228" height="30" rx="15" fill="#bf91f3" fill-opacity=".09" stroke="#bf91f3" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="114" y="19.5" text-anchor="middle" font-size="12" fill="#bf91f3">2nd Nationally (EDGE / 500+)</text></g><g transform="translate(190 214)">
+    <rect width="98" height="30" rx="15" fill="#bf91f3" fill-opacity=".09" stroke="#bf91f3" stroke-opacity=".9" filter="url(#glowS)"/>
+    <text x="49" y="19.5" text-anchor="middle" font-size="12" fill="#bf91f3">Top 5 IUPC</text></g>
+</svg>
