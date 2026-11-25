@@ -58,5 +58,5 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
   </g>
   <text x="247.5" y="97" text-anchor="middle" font-size="30" font-weight="700" fill="#bf91f3" filter="url(#glow)">0</text>
   <text x="247.5" y="148" text-anchor="middle" font-size="13" font-weight="700" fill="#bf91f3" filter="url(#glowS)">Current Streak</text>
-  <text x="247.5" y="168" text-anchor="middle" font-size="11" fill="#38bdae">Nov 24</text>
+  <text x="247.5" y="168" text-anchor="middle" font-size="11" fill="#38bdae">Nov 25</text>
 </svg>
