@@ -44,10 +44,10 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
     fill="#24263a"  style="animation-delay:84ms"/>
   <rect class="bar" x="86.1" y="148.0" width="9.9" height="2.0" rx="2"
     fill="#24263a"  style="animation-delay:112ms"/>
-  <rect class="bar" x="101.0" y="148.0" width="9.9" height="2.0" rx="2"
-    fill="#24263a"  style="animation-delay:140ms"/>
-  <rect class="bar" x="115.9" y="91.5" width="9.9" height="58.5" rx="2"
-    fill="url(#bar)" filter="url(#glowS)" style="animation-delay:168ms"/>
+  <rect class="bar" x="101.0" y="91.5" width="9.9" height="58.5" rx="2"
+    fill="url(#bar)" filter="url(#glowS)" style="animation-delay:140ms"/>
+  <rect class="bar" x="115.9" y="148.0" width="9.9" height="2.0" rx="2"
+    fill="#24263a"  style="animation-delay:168ms"/>
   <rect class="bar" x="130.8" y="148.0" width="9.9" height="2.0" rx="2"
     fill="#24263a"  style="animation-delay:196ms"/>
   <rect class="bar" x="145.7" y="148.0" width="9.9" height="2.0" rx="2"
@@ -68,12 +68,12 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
     fill="#24263a"  style="animation-delay:420ms"/>
   <rect class="bar" x="264.9" y="148.0" width="9.9" height="2.0" rx="2"
     fill="#24263a"  style="animation-delay:448ms"/>
-  <rect class="bar" x="279.8" y="148.0" width="9.9" height="2.0" rx="2"
-    fill="#24263a"  style="animation-delay:476ms"/>
-  <rect class="bar" x="294.7" y="72.0" width="9.9" height="78.0" rx="2"
+  <rect class="bar" x="279.8" y="72.0" width="9.9" height="78.0" rx="2"
+    fill="url(#bar)" filter="url(#glowS)" style="animation-delay:476ms"/>
+  <rect class="bar" x="294.7" y="91.5" width="9.9" height="58.5" rx="2"
     fill="url(#bar)" filter="url(#glowS)" style="animation-delay:504ms"/>
-  <rect class="bar" x="309.6" y="91.5" width="9.9" height="58.5" rx="2"
-    fill="url(#bar)" filter="url(#glowS)" style="animation-delay:532ms"/>
+  <rect class="bar" x="309.6" y="148.0" width="9.9" height="2.0" rx="2"
+    fill="#24263a"  style="animation-delay:532ms"/>
   <rect class="bar" x="324.5" y="148.0" width="9.9" height="2.0" rx="2"
     fill="#24263a"  style="animation-delay:560ms"/>
   <rect class="bar" x="339.4" y="148.0" width="9.9" height="2.0" rx="2"
@@ -95,6 +95,6 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', m
   <rect class="bar" x="458.6" y="148.0" width="9.9" height="2.0" rx="2"
     fill="#24263a"  style="animation-delay:812ms"/>
   <line x1="24" y1="152" x2="471" y2="152" stroke="url(#neon)" stroke-opacity=".7" filter="url(#glowS)"/>
-  <text x="24" y="172" font-size="10" fill="#7982a9">Oct 28</text>
-  <text x="471" y="172" text-anchor="end" font-size="10" fill="#7982a9">Nov 26</text>
+  <text x="24" y="172" font-size="10" fill="#7982a9">Oct 29</text>
+  <text x="471" y="172" text-anchor="end" font-size="10" fill="#7982a9">Nov 27</text>
 </svg>
